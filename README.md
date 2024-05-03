@@ -14,7 +14,7 @@ Experienced Full-Stack developer adapt in all stages of advanced development. Kn
 <p>
 <span>
   <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
+  <img alt="Binance" src="https://img.shields.io/badge/Binance-D51535?style=for-the-badge&logo=binance&logoColor=white" />
   <img alt="Solana" src="https://img.shields.io/badge/Solana-FCD535?style=for-the-badge&logo=solana&logoColor=white" />
   <img alt="Chainlin" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img alt="DogeCoin" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" />
