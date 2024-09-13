@@ -1,5 +1,5 @@
 # 💫 About Me
-Senior Blockchain developer with 5 years of experience and Full-Stack with 5+ years of experience.<br>
+Senior Rust Engineer with 7 years of experience for Blockchain and 5+ years of experience for Full-Stack.<br>
 Highly skilled Blockchain engineer bringing enormous talents of development of DEX, DeFi, Stacking, Farming and NFT marketplace. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
 Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
 - Like to make a development document with developing content to use that in the future.
@@ -35,9 +35,9 @@ Experienced Full-Stack developer adapt in all stages of advanced development. Kn
 - GMX, Tornado Cash <br/>
 - Cross-chain bridge <br/>
 - Truffle, Hardhat, Remix <br/>
-- Solidity, Rust, Go <br/>
+- Rust, Solidity, Go <br/>
 - Web3.js, Ethers.js, Cosm.js <br/>
-- React, Vue.js, Angular <br/>
+- React, Vue.js, Next.js <br/>
 </span>
 
 ## FrontEnd
@@ -174,9 +174,6 @@ Experienced Full-Stack developer adapt in all stages of advanced development. Kn
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-->
 
-## 🥅 Work/Jobs
-![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
 
 # 📊 GitHub Stats
