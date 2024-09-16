@@ -1,5 +1,5 @@
 # 💫 About Me
-Senior Rust Engineer with 7 years of experience for Blockchain and 5+ years of experience for Full-Stack.<br>
+Senior Rust Engineer with 10 years of experience for Blockchain and 7+ years of experience for Full-Stack.<br>
 Highly skilled Blockchain engineer bringing enormous talents of development of DEX, DeFi, Stacking, Farming and NFT marketplace. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
 Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
 - Like to make a development document with developing content to use that in the future.
